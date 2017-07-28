@@ -1,4 +1,4 @@
-zawartosc naszego pliku
+zawartosc naszego pliku tekstowego
 
 nowa linia 1
 nowa linia 2
